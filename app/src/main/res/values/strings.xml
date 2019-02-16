@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">MovieMate</string>
+    <string name="already_sorted_by">sort_order</string>
+    <string name="sort_top_rated">Sort by Top Rated</string>
+    <string name="sort_popular">Sort by Popular</string>
+    <string name="sort_favorite">Sort by Favorites</string>
+    <string name="breathe_in_out">  Breathe In Breathe Out...</string>
+    <string name="sort_title">Sort by</string>
+    <string name="release_date">Released Date: Sorry N/A :(</string>
+    <string name="rating">Rating</string>
+    <string name="duration">Duration</string>
+    <string name="plot_synopsis"> Plot Synopsis </string>
+    <string name="trailer">Trailer</string>
+
+
+</resources>
