@@ -1,5 +1,6 @@
 # **MovieMate**
 
+This is an Android Application which has the following features and UI: 
 ---
 
 # User Interface - Layout
