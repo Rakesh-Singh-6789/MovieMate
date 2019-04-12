@@ -1,4 +1,6 @@
-# MovieMate
+# **MovieMate**
+
+---
 
 # User Interface - Layout
 -UI contains an element (e.g., a spinner or settings menu) to toggle the sort order of the movies by: most popular, highest rated, favorites
